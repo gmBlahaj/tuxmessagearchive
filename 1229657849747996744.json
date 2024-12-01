@@ -1,0 +1,37 @@
+[
+  {
+    "content": "The channel has been moved to the archive category and permissions have been synced.",
+    "timestamp": 1726927184546,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "-archive",
+    "timestamp": 1726927183842,
+    "author": "tuxxego"
+  },
+  {
+    "content": "nuh uh",
+    "timestamp": 1713559956756,
+    "author": "gm_blahaj"
+  },
+  {
+    "content": "<@&1203774979095658506> read!!!!!",
+    "timestamp": 1713559808132,
+    "author": "tuxxego"
+  },
+  {
+    "content": "# How to contribute to TuxxegoBot (for developers)\nAs TuxxegoBot is a major project involving a lot of people (devs like us, a community testing/using the bot and giving feedback, etc), it's important to have proper guidelines of how to best manage things to avoid mistakes best as possible. For this purpose, code contributions to TuxxegoBot should be made like this:\n\n\n## 1. Create an issue on GitHub\nIf you want to add a new feature yourself, have a feature suggestion you want us to consider, or noticed a bug to fix, your first step should be to head to [the TuxxegoBot issues page](https://github.com/Tuxxego/TuxxegoBot/issues) and create an issue there that describes your thought regarding the code change.\n### Title\nA VERY short TL;DR of what your issue is about. This could be something like \"fix HotPotato autopass bug\" or \"add starboard\".\n### Description\nA place for additional/more detailed information about your issue. This should provide all information a developer might need to get started on trying to resolve the issue. An example of this would be:\nImplement a highly configurable starboard with settings for what channels are whitelisted/blacklisted from the starboard, what reaction should be used as a star, how many stars should be required for a message to get stared, and how many it needs to maintain to stay on the starboard.\n\n### Assignes\nThe people who are supposed to work on resolving the issue. Please assign either no one or only yourself.\n### Labels\nA set of predefined tags to roughly categorise the issue. Please assign either \"enhancement\", \"bug\", or \"documentation\" when initially creating an issue, none of the other tags.\n### Others\nPlease don't mess with any of the other sections you can edit on issues.\n\n\n## 2. Create a branch on GitHub\nWhen actually developing, please make suer to work outside of the main branch. How exactly you intend to structure the branches you work on is up to you (issue branches, one development branch, some mix of both, ...) as long as you only commit on branches where you're allowed to do so. Make suer that your branch names properly describe how you intend to use your branch.\n\n\n## 3. Commit your changes\nWhen writing a commit, start your message with a reference to a GitHub issue that the commit aims to help to resolve, and make your message a good & quick description of what the specific purpose of your code changes is. Make sure to make a lot of small commits, single big commits or commits with bad messages should be avoided at all costs.\n\n\n## 4. Create a PR on GitHub\nAfter you're done with making the code changes for resolving an issue on your branch, open up a PR from that branch onto main.\n### Title\nA very short TL;DR of what overall changes you made in the commits of your PR.\n### Description\nMore detailed info on what issues your PR resolves and how it resolves them. Make sure to use GitHub closing keywords (`closes #ISSUE_NUMBER`, `resolves #ISSUE_NUMBER`, etc) to automatically close issues solved by your PR if it is accepted.\n### Reviewers\nOne or several people who you want to review the code. For a PR to be merged, at least one other person needs to review and approve it, and whoever you select as a Reviewer is notified that they should do this.\n### Assignes\nThe people who contributed to any/all changes made on the branch. Please make sure to assign the list accurately for ease of tracking.\n### Labels\nJust leave it empty or assign the labels of the issues you're solving, it honestly doesn't matter a whole lot.\n### Others\nPlease don't mess with any of the other sections you can edit on PRs.\n\n## 5. Further planning\nWe'll have regular meeting to discuss aspects like development progress, problems, the priority of different issues, etc. The main purpose of these is to ensure that every dev is on the same page about things, and they should be at times that suit everyone well.\n\nNote that the guidelines might change in the future depending on feedback and how well they work.",
+    "timestamp": 1713536573494,
+    "author": "keymasterer"
+  },
+  {
+    "content": "OH and also, ignore the desktop app, it's shit and basically abandoned at this point, using the nodejs console is so much better.",
+    "timestamp": 1713244516882,
+    "author": "tuxxego"
+  },
+  {
+    "content": "Hi <@&1203774979095658506> ! So, the bot staff has always been neglected, so i'm making huge changes. first of all, please welcome <@556767841806843916> as the newest member of the bot staff! Key can help us with setting up a more clear todo system, and a few other things (it's 1 AM i forgot). also, for a more clear outline of all the bot staff specific channels, here's a list of them:\n\n<#1229657849747996744> this channel - announcements + todos.\n\n<#1221952274176278589> a channel for testing out new features or updates to the bot.\n\n<#1203774044940275753> most errors encountered by the bot are automatically sent here, some aren't but i will add error handling for that soon. \n\n<#1195585554897707179> general channel that serves as the common place for developing the bot, questions, etc.\n\n# current things i'm working on doing for the bot # \n\n- Currently i'm working on cleaning the codebase of uneeded, unused, and overcomplicated functions, plus moving stuff around to make it easier to go through.\n\n- Updating old systems (marriage and market system for example.\n\n- Working on the new rank system.\n\n# Github # \n\nThe link to the github is here: https://github.com/Tuxxego/TuxxegoBot if you don't have access DM me your github username and i'll add you to it. \n\n# rules as bot staff # \n\n1. absolutly no leaking the code, the codebase includes the bot token, if you do this, you will be banned from the server.\n\n2. keep quiet about new features that are being worked on, unless it is announced. some features might be scrapped before they ever get finished. One exception is in <#1181745075949142026> <#1183452832939126794> or other staff channels.\n\n\nthere is still a bit i need to set up or change on my end, like migrating from the bot testing server to here, so there aren't two different servers.",
+    "timestamp": 1713244467555,
+    "author": "tuxxego"
+  }
+]
