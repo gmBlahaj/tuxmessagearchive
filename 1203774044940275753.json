@@ -1,0 +1,502 @@
+[
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732911683560,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error: Received one or more errors\n    at _UnionValidator.handle (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:1854:23)\n    at _UnionValidator.parse (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:939:90)\n    at EmbedBuilder.setDescription (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\builders\\dist\\index.js:322:26)\n    at generateEmbed (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1810:18)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1839:26)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.handleCollect (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:133:14)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732911670819,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:248:13)```",
+    "timestamp": 1732834901971,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:228:46)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Pets.js:323:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732760290602,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:228:46)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Pets.js:323:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732760279550,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:248:13)```",
+    "timestamp": 1732723246292,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:248:13)```",
+    "timestamp": 1732682520314,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:248:13)```",
+    "timestamp": 1732681658525,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error: Received one or more errors\n    at _UnionValidator.handle (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:1854:23)\n    at _UnionValidator.parse (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:939:90)\n    at EmbedBuilder.setDescription (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\builders\\dist\\index.js:322:26)\n    at generateEmbed (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1810:18)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1839:26)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.handleCollect (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:133:14)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732679439688,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:325:21)```",
+    "timestamp": 1732671175742,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:332:17)```",
+    "timestamp": 1732671173852,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of undefined (reading 'charAt')\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:415:52)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.stop (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:233:10)\n    at Timeout.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:96:61)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)```",
+    "timestamp": 1732670237842,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of undefined (reading 'charAt')\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:397:52)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.stop (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:233:10)\n    at Timeout.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:96:61)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)```",
+    "timestamp": 1732670066334,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:334:21)```",
+    "timestamp": 1732669875761,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of undefined (reading 'charAt')\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:395:56)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.stop (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:233:10)\n    at InteractionCollector.checkEnd (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:264:22)\n    at InteractionCollector.handleCollect (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:149:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732669875589,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:334:21)```",
+    "timestamp": 1732669858319,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of undefined (reading 'charAt')\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:395:56)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.stop (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:233:10)\n    at InteractionCollector.checkEnd (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:264:22)\n    at InteractionCollector.handleCollect (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:149:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732669858124,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of undefined (reading 'charAt')\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:395:56)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.stop (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:233:10)\n    at Timeout.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:96:61)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)```",
+    "timestamp": 1732669755243,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: client.createMessageComponentCollector is not a function\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:318:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732669465046,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: client.createMessageComponentCollector is not a function\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\MiscCommands.js:318:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732669387381,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732666178201,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732666176637,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error: Received one or more errors\n    at _UnionValidator.handle (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:1854:23)\n    at _UnionValidator.parse (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:939:90)\n    at EmbedBuilder.setDescription (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\builders\\dist\\index.js:322:26)\n    at generateEmbed (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1810:18)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1839:26)\n    at InteractionCollector.emit (node:events:526:35)\n    at InteractionCollector.handleCollect (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\Collector.js:133:14)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1732665975968,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1838:13)```",
+    "timestamp": 1732665950931,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1838:13)```",
+    "timestamp": 1732665947702,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732665806074,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732665805224,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732665803902,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732665796845,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732665795469,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1527:13)```",
+    "timestamp": 1732665793234,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:1490:13)```",
+    "timestamp": 1732664382556,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640350883,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640350684,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640349142,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640344724,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640344531,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640344310,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640343999,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640342388,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640342086,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640341871,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640337311,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640337038,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640336888,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640336678,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50001]: Missing Access\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732640336537,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10008]: Unknown Message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async GuildMessageManager.edit (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\managers\\MessageManager.js:188:15)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hungerGames.js:239:5)```",
+    "timestamp": 1732640029801,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50013]: Missing Permissions\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732627949784,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732558893282,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732558880892,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732558850156,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732558836079,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732558467870,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10011]: Unknown Role\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async GuildMemberRoleManager.remove (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\managers\\GuildMemberRoleManager.js:168:7)\n    at async autoPassHotPotato (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:358:2)```",
+    "timestamp": 1732557794235,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10008]: Unknown Message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async GuildMessageManager.edit (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\managers\\MessageManager.js:188:15)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hungerGames.js:239:5)```",
+    "timestamp": 1732550072480,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of null (reading 'id')\n    at autoPassHotPotato (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:357:76)\n    at Timeout._onTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:351:4)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)```",
+    "timestamp": 1732549933149,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of null (reading 'id')\n    at autoPassHotPotato (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:357:76)\n    at Timeout._onTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:351:4)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)```",
+    "timestamp": 1732546990533,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732540641834,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of null (reading 'id')\n    at autoPassHotPotato (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:357:76)\n    at Timeout._onTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:351:4)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)```",
+    "timestamp": 1732413597903,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732411712609,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732403876141,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50006]: Cannot send an empty message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1732075719808,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985325873,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985290646,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985280100,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985279596,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985224736,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985204788,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985202367,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985194973,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```ConnectTimeoutError: Connect Timeout Error\n    at onConnectTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:190:24)\n    at E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:133:46\n    at Immediate._onImmediate (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\undici\\lib\\core\\connect.js:172:33)\n    at process.processImmediate (node:internal/timers:476:21)```",
+    "timestamp": 1731985194666,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1731983952196,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10011]: Unknown Role\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async GuildMemberRoleManager.remove (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\managers\\GuildMemberRoleManager.js:168:7)\n    at async autoPassHotPotato (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:358:2)```",
+    "timestamp": 1731983892274,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1731983883586,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10011]: Unknown Role\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async GuildMemberRoleManager.remove (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\managers\\GuildMemberRoleManager.js:168:7)\n    at async checkHotPotatoTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:458:4)```",
+    "timestamp": 1731983840101,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10011]: Unknown Role\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async GuildMemberRoleManager.remove (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\managers\\GuildMemberRoleManager.js:168:7)\n    at async autoPassHotPotato (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:358:2)```",
+    "timestamp": 1731983773069,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```TypeError: Cannot read properties of null (reading 'id')\n    at autoPassHotPotato (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:357:76)\n    at Timeout._onTimeout (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\hotPotato.js:351:4)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)```",
+    "timestamp": 1731981224040,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1731887693926,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```HTTPError: Internal Server Error\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:723:11)\n    at SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1731820391057,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:228:46)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Pets.js:323:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1731730292785,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:228:46)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Pets.js:323:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1731549584714,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:228:46)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Pets.js:323:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1731549573358,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:228:46)\n    at InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Pets.js:323:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)```",
+    "timestamp": 1731549563134,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1731536951544,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[50035]: Invalid Form Body\nmessage_reference[MESSAGE_REFERENCE_UNKNOWN_MESSAGE]: Unknown message\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1133:23)\n    at async SequentialHandler.queueRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:963:14)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async TextChannel.send (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:177:15)```",
+    "timestamp": 1731450404106,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:427:13)```",
+    "timestamp": 1731307216440,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:427:13)```",
+    "timestamp": 1731307215941,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:427:13)```",
+    "timestamp": 1731307215710,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:427:13)```",
+    "timestamp": 1731307215382,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.update (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:236:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:427:13)```",
+    "timestamp": 1731307215283,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307105708,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307105435,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307105403,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307104819,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307104459,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307099600,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307099388,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307098226,
+    "author": "TuxxegoBot"
+  },
+  {
+    "content": "An unhandled error occurred:\n```DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:730:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BurstHandler.runRequest (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:835:23)\n    at async _REST.request (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\@discordjs\\rest\\dist\\index.js:1278:22)\n    at async ButtonInteraction.reply (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:114:5)\n    at async InteractionCollector.<anonymous> (E:\\Users\\tuxx3\\Downloads\\TuxxyBot\\TuxxegoBot\\TuxxegoBot\\bot-modules\\Economy.js:429:13)```",
+    "timestamp": 1731307097914,
+    "author": "TuxxegoBot"
+  }
+]
