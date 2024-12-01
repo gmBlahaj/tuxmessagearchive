@@ -9751,5 +9751,47 @@
       "timestamp": "2024-11-24T22:04:44.374+01:00",
       "author": "tuxxego"
     }
+  ],
+  "1229665152597495841": [
+    {
+      "content": "The channel has been moved to the archive category and permissions have been synced.",
+      "timestamp": "2024-09-21T15:59:36.000+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-archive",
+      "timestamp": "2024-09-21T15:59:34.933+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "<@&1203774979095658506>",
+      "timestamp": "2024-05-25T11:19:11.981+02:00",
+      "author": "gm_blahaj"
+    },
+    {
+      "content": "",
+      "timestamp": "2024-05-25T11:19:02.644+02:00",
+      "author": "Dyno"
+    },
+    {
+      "content": "<@&1203774979095658506> So far, converting stuff from discordBot.js to modules have been successful, mostly. Economy is gonna be the hardest, so i'm saving that for last. After school tomorrow i'll probably convert over marriages, and MAYBE XP.",
+      "timestamp": "2024-04-22T04:39:22.186+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "<@&1203774979095658506> Very important announcement to make, thanks to <@556767841806843916> we are moving all commands and logic to their own files, to make the codebase more clean. for example, all help command logic is stored in helpCommands.js, and all hot potato commands will be stored in hotPotato.js. So please refrain from making any additions to discordBot.js, as soon that file will just contain very important logic only. It would be greatly appreciated if you could aid me in migrating to this new system, and if you have any questions on how to use this new system, ask either me or Key! I'll share a basis on how it works:\n\n** Location of commands **\n\nthe system is kinda similar to how one adds slash commands to a bot, each module is stored in a folder called \"bot modules\" in the root directory of the bot. \n\n** Adding new modules**\n\nBefore adding a new module it would be appreciated if you told me or Key, it is important to keep commands that use a similar system (e.g economy), for example, in the economy module. \n\nTo add a new module, just copy and paste the Example.js file in the bot modules folder, and edit from there.\n\n**Adding new commands**\n\nTo add a new command, first make a function named after the command, and then add the logic to the command there, add this to your init function:\n\n        ```this.commands.push(this.whateveryourfunctionnameis);```\n\nnow, if everything is working correctly, doing -(whatever that function is called) will trigger the command. \n\nIf you have any questions again, please ask either me or Key.",
+      "timestamp": "2024-04-20T19:54:13.710+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "hi <@&1203774979095658506> please check out https://github.com/users/Tuxxego/projects/8/\n\nI've added all of you to the project, if you don't have access please let me know ASAP.",
+      "timestamp": "2024-04-19T06:46:24.500+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "<@&1203774979095658506> this channel will be for commits and general announcements",
+      "timestamp": "2024-04-16T14:51:48.119+02:00",
+      "author": "tuxxego"
+    }
   ]
 }
