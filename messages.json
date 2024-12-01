@@ -15130,5 +15130,507 @@
       "timestamp": "2024-02-08T05:39:13.306+01:00",
       "author": "tuxxego"
     }
+  ],
+  "1258246187497033748": [
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have weapon production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:48:12.657+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have armor production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:48:12.457+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_axe```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:46:33.587+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```LocalizedTextManager: missing text: You must spawn this vehicle within a kingdom.```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:46:00.031+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```NullReferenceException: Object reference not set to an instance of an object```\n**Stack Trace:**\n```NobleLife.Warband.finishCapture_Prefix (City __instance, Kingdom pKingdom) (at Code/Warband.cs:169)\nCity.finishCapture (Kingdom pKingdom) (at <48981bcd2f4c43299deecf42053a3062>:0)\nCity.updateCapture (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nCity.update (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nCitiesManager.update (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nMapBox.updateCities (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nMapBox.Update () (at <48981bcd2f4c43299deecf42053a3062>:0)\n```",
+      "timestamp": "2024-10-12T18:45:55.282+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Cyberware```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:33.499+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: LowFirearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:24.871+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: BudgetMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:15.457+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: DecentMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:12.398+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_bow```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:12.103+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_axe```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:09.662+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_sword```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:08.668+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Cyberware```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:44:06.438+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Firearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:43:51.711+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_spear```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:43:51.065+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: LowFirearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:43:50.508+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have weapon production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:43:15.205+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have armor production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:43:14.878+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: pActor.getCulture() returned null```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:43:11.345+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: STRONGMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:42:48.272+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_bow```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:42:44.900+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Firearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:42:31.989+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemArmorMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:42:12.513+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemWeaponMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:42:05.769+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemAccessoryMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:42:05.578+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```ArgumentException: An item with the same key has already been added. Key: TerlaniusKingdom```\n**Stack Trace:**\n```System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <a1e9f114a6e64f4eacb529fc802ec93d>:0)\nSystem.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <a1e9f114a6e64f4eacb529fc802ec93d>:0)\nCivSystemManager`2[TObject,TData].addObject (TObject pObject) (at <48981bcd2f4c43299deecf42053a3062>:0)\nCivSystemManager`2[TObject,TData].newObject (System.String pSpecialID) (at <48981bcd2f4c43299deecf42053a3062>:0)\nKingdomManager.newHiddenKingdom (KingdomAsset pAsset) (at <48981bcd2f4c43299deecf42053a3062>:0)\nSystem.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at <a1e9f114a6e64f4eacb529fc802ec93d>:0)\nRethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.\nSystem.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at <a1e9f114a6e64f4eacb529fc802ec93d>:0)\nSystem.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at <a1e9f114a6e64f4eacb529fc802ec93d>:0)\nReflectionUtility.Reflection.CallMethod (System.Object o, System.String methodName, System.Object[] args) (at C:/Users/konni/RiderProjects/Modding/ModLoader/ncms_compatible_layer/ReflectionUtility/Reflection.cs:30)\nSpaceBox.Creatures.loadAssets () (at Code/Creatures.cs:54)\nSpaceBox.Creatures.init () (at Code/Creatures.cs:33)\nSpaceBox.Main.Awake () (at Code/Main.cs:74)\nSpaceBox.Main.Update () (at Code/Main.cs:118)\n```",
+      "timestamp": "2024-10-12T18:41:10.210+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```Audio file not found: C:/Program Files (x86)/Steam/steamapps/common/worldbox/worldbox_Data\\Resources\\file.mp3```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:41:09.262+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```ArgumentException: An item with the same key has already been added. Key: order_MissileSilo```\n**Stack Trace:**\n```System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <a1e9f114a6e64f4eacb529fc802ec93d>:0)\nSystem.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <a1e9f114a6e64f4eacb529fc802ec93d>:0)\nModernBox.Commerce.AddBuildingOrderKeysToCivRaces (System.String key, System.String value) (at ModernBox/Code/Commerce.cs:622)\nModernBox.Commerce.turnOnNukes () (at ModernBox/Code/Commerce.cs:549)\nModernBox.Commerce.toggleNukes () (at ModernBox/Code/Commerce.cs:536)\nUnityEngine.Events.InvokableCall.Invoke () (at <e8ad740a36e94573bdfd43b460604777>:0)\nUnityEngine.Events.UnityEvent.Invoke () (at <e8ad740a36e94573bdfd43b460604777>:0)\nUnityEngine.UI.Button.Press () (at <0d507d7a1688421fa0f28083757a24d1>:0)\nUnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at <0d507d7a1688421fa0f28083757a24d1>:0)\nUnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <0d507d7a1688421fa0f28083757a24d1>:0)\nUnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <0d507d7a1688421fa0f28083757a24d1>:0)\nUnityEngine.EventSystems.EventSystem:Update()\n```",
+      "timestamp": "2024-10-12T18:38:37.421+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: STRONGMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:31:11.920+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: MIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:31:04.934+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemArmorMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:31:04.600+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemAccessoryMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:31:04.012+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemWeaponMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:31:03.737+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```VanillaBuffs/Code/Main.cs(18,7): error CS0246: The type or namespace name 'NeoModLoader' could not be found (are you missing a using directive or an assembly reference?)```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:29:54.138+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```Failed to compile VanillaBuffs:```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:29:53.797+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```Audio file not found: C:/Program Files (x86)/Steam/steamapps/common/worldbox/worldbox_Data\\Resources\\file.mp3```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:29:53.429+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemWeaponMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:28:24.818+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemArmorMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:28:24.390+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemAccessoryMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:28:24.202+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_axe```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:25:30.812+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_spear```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:25:19.687+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_sword```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:25:17.736+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_bow```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:25:11.326+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have weapon production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:24:44.066+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have armor production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:24:43.719+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: pActor.getCulture() returned null```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:24:42.187+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemAccessoryMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:43.117+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemArmorMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:42.786+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: MIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:14.879+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_hammer```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:09.567+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: BudgetMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:08.675+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: DecentMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:08.416+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_spear```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:03.019+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: STRONGMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:02.095+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_axe```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:00.758+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Cyberware```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:20:00.296+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: LowFirearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:19:59.000+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_bow```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:19:53.133+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Firearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:19:52.967+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemWeaponMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:19:52.751+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemArmorMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:19:50.321+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemAccessoryMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:19:39.746+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```NullReferenceException: Object reference not set to an instance of an object```\n**Stack Trace:**\n```ai.behaviours.CityBehBuild.upgradeBuilding (Building pBuilding, City pCity) (at <48981bcd2f4c43299deecf42053a3062>:0)\nai.behaviours.CityBehBuild.buildTick (City pCity) (at <48981bcd2f4c43299deecf42053a3062>:0)\nai.behaviours.CityBehBuild.execute (City pCity) (at <48981bcd2f4c43299deecf42053a3062>:0)\nBehaviourActionBase`1[T].startExecute (T pObject) (at <48981bcd2f4c43299deecf42053a3062>:0)\nAiSystem`5[TSimObject,TJob,TTask,TAction,TCondition].updateSingleTasks (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nCity.update (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nCitiesManager.update (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nMapBox.updateCities (System.Single pElapsed) (at <48981bcd2f4c43299deecf42053a3062>:0)\nMapBox.Update () (at <48981bcd2f4c43299deecf42053a3062>:0)\n```",
+      "timestamp": "2024-10-12T18:19:27.643+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```LocalizedTextManager: missing text: You must spawn this vehicle within a kingdom.```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:17:10.649+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: pActor.getCulture() returned null```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:16:53.599+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have weapon production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:16:28.147+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have armor production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:16:27.944+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemAccessoryMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:15:40.720+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```Audio file not found: D:/SteamLibrary/steamapps/common/worldbox/worldbox_Data\\Resources\\file.mp3```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:14:53.133+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: pActor.getCulture() returned null```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:11:43.250+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```LocalizedTextManager: missing text: Upgrade Building Description```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:09:50.394+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```LocalizedTextManager: missing text: Upgrade Building```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:09:50.123+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_sword```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:04:28.746+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: LowFirearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:50.251+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_hammer```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:41.448+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_spear```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:36.670+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Cyberware```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:25.335+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Cyberware```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:03.728+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_axe```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:03.067+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_bow```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:02.446+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_axe```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:03:01.316+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: MIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:59.161+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: DecentMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:58.576+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: BudgetMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:57.982+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_spear```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:57.366+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemWeaponMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:54.090+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemAccessoryMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:53.394+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: STRONGMIRV```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:53.191+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemWeaponMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:37.755+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: LowFirearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:37.574+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: weapon_bow```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:37.257+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: materialForItem is null for pItemAsset: ItemAsset, pLib: ItemArmorMaterialLibrary```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:37.101+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Firearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:35.915+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have armor production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:02:35.495+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[produceItem] Error: Culture does not have required tech: Firearms```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:01:58.028+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```[tryProduceItem] Error: Culture does not have armor production tech```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:01:57.762+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```PowerBox/Code/WorldBoxMod.cs(142,47): error CS0246: The type or namespace name 'AnimationDataUnit' could not be found (are you missing a using directive or an assembly reference?)```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:00:28.505+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```PowerBox/Code/WorldBoxMod.Assets.GodPowers.cs(849,68): error CS1061: 'Actor' does not contain a definition for 'stats' and no accessible extension method 'stats' accepting a first argument of type 'Actor' could be found (are you missing a using directive or an assembly reference?)```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:00:26.514+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```PowerBox/Code/WorldBoxMod.Windows.PowerBoxLaws.cs(843,56): error CS1061: 'Actor' does not contain a definition for 'stats' and no accessible extension method 'stats' accepting a first argument of type 'Actor' could be found (are you missing a using directive or an assembly reference?)```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:00:24.409+02:00",
+      "author": "ModernBox Errors"
+    },
+    {
+      "content": "**Error:**\n```PowerBox/Code/WorldBoxMod.Assets.GodPowers.cs(654,34): error CS1061: 'Kingdom' does not contain a definition for 'alive' and no accessible extension method 'alive' accepting a first argument of type 'Kingdom' could be found (are you missing a using directive or an assembly reference?)```\n**Stack Trace:**\n``````",
+      "timestamp": "2024-10-12T18:00:22.310+02:00",
+      "author": "ModernBox Errors"
+    }
   ]
 }
