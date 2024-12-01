@@ -5512,5 +5512,507 @@
       "timestamp": "2024-11-25T06:24:08.719+01:00",
       "author": "tuxxego"
     }
+  ],
+  "1156393647344992296": [
+    {
+      "content": "The channel has been moved to the archive category and permissions have been synced.",
+      "timestamp": "2024-09-21T15:58:16.049+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-archive",
+      "timestamp": "2024-09-21T15:58:15.420+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "",
+      "timestamp": "2024-08-08T19:13:09.502+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-08-08T19:13:09.356+02:00",
+      "author": "shadowblade6567"
+    },
+    {
+      "content": "-lb",
+      "timestamp": "2024-08-03T19:49:13.533+02:00",
+      "author": "ogplayer5567"
+    },
+    {
+      "content": "You have paid NaN Tuxeons in taxes.",
+      "timestamp": "2024-08-03T19:49:08.983+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-paytax",
+      "timestamp": "2024-08-03T19:49:08.852+02:00",
+      "author": "ogplayer5567"
+    },
+    {
+      "content": "",
+      "timestamp": "2024-08-03T19:48:18.915+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-bal",
+      "timestamp": "2024-08-03T19:48:18.323+02:00",
+      "author": "ogplayer5567"
+    },
+    {
+      "content": "",
+      "timestamp": "2024-08-03T19:48:13.010+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-lb",
+      "timestamp": "2024-08-03T19:48:12.520+02:00",
+      "author": "ogplayer5567"
+    },
+    {
+      "content": "You must wait 0m 30s before paying taxes again.",
+      "timestamp": "2024-08-03T19:48:08.524+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-paytax",
+      "timestamp": "2024-08-03T19:48:08.322+02:00",
+      "author": "ogplayer5567"
+    },
+    {
+      "content": "stupid bot",
+      "timestamp": "2024-07-15T00:45:26.120+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "fuck off",
+      "timestamp": "2024-07-15T00:45:22.267+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "Please provide a valid number of messages to delete.",
+      "timestamp": "2024-07-15T00:45:18.037+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-purge <@196762806492594176> 999",
+      "timestamp": "2024-07-15T00:45:17.762+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "Please provide a valid number of messages to delete.",
+      "timestamp": "2024-07-15T00:45:10.875+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-purge <@196762806492594176> 999999999999999999999999",
+      "timestamp": "2024-07-15T00:45:10.625+02:00",
+      "author": "tuxxego"
+    },
+    {
+      "content": "Warned `1hungryboi`",
+      "timestamp": "2024-07-15T00:44:59.796+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "crime is great",
+      "timestamp": "2024-07-15T00:44:56.712+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 63 tuxeons.",
+      "timestamp": "2024-07-15T00:44:45.001+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:44.699+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 47 tuxeons.",
+      "timestamp": "2024-07-15T00:44:43.512+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:43.271+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 41 tuxeons.",
+      "timestamp": "2024-07-15T00:44:42.097+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:41.827+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 47 tuxeons.",
+      "timestamp": "2024-07-15T00:44:40.676+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:40.341+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 61 tuxeons.",
+      "timestamp": "2024-07-15T00:44:39.053+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:38.761+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 62 tuxeons.",
+      "timestamp": "2024-07-15T00:44:37.156+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:37.011+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You need to wait 60 seconds before attempting another crime.",
+      "timestamp": "2024-07-15T00:44:36.375+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:36.197+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 50 tuxeons.",
+      "timestamp": "2024-07-15T00:44:35.431+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:35.222+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You need to wait 60 seconds before attempting another crime.",
+      "timestamp": "2024-07-15T00:44:34.479+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:34.334+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 73 tuxeons.",
+      "timestamp": "2024-07-15T00:44:33.691+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:33.526+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 36 tuxeons.",
+      "timestamp": "2024-07-15T00:44:32.705+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:32.521+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You need to wait 60 seconds before attempting another crime.",
+      "timestamp": "2024-07-15T00:44:31.806+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:31.654+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 60 tuxeons.",
+      "timestamp": "2024-07-15T00:44:30.921+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:30.779+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You need to wait 60 seconds before attempting another crime.",
+      "timestamp": "2024-07-15T00:44:30.162+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:29.938+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 51 tuxeons.",
+      "timestamp": "2024-07-15T00:44:29.333+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:29.132+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You need to wait 60 seconds before attempting another crime.",
+      "timestamp": "2024-07-15T00:44:28.508+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:28.331+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 69 tuxeons.",
+      "timestamp": "2024-07-15T00:44:27.522+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:27.445+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 58 tuxeons.",
+      "timestamp": "2024-07-15T00:44:26.487+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:26.352+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 68 tuxeons.",
+      "timestamp": "2024-07-15T00:44:25.452+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:25.215+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 63 tuxeons.",
+      "timestamp": "2024-07-15T00:44:24.250+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:24.074+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 30 tuxeons.",
+      "timestamp": "2024-07-15T00:44:23.107+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:22.943+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 67 tuxeons.",
+      "timestamp": "2024-07-15T00:44:21.899+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:21.808+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 56 tuxeons.",
+      "timestamp": "2024-07-15T00:44:20.889+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:20.685+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 68 tuxeons.",
+      "timestamp": "2024-07-15T00:44:19.702+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:19.546+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 67 tuxeons.",
+      "timestamp": "2024-07-15T00:44:18.328+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:18.046+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "",
+      "timestamp": "2024-07-15T00:44:10.457+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-balance",
+      "timestamp": "2024-07-15T00:44:09.287+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 71 tuxeons.",
+      "timestamp": "2024-07-15T00:44:04.713+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:04.544+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 66 tuxeons.",
+      "timestamp": "2024-07-15T00:44:03.541+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:03.374+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 26 tuxeons.",
+      "timestamp": "2024-07-15T00:44:02.411+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:02.327+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 69 tuxeons.",
+      "timestamp": "2024-07-15T00:44:01.388+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:44:01.095+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 36 tuxeons.",
+      "timestamp": "2024-07-15T00:44:00.007+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:59.844+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 70 tuxeons.",
+      "timestamp": "2024-07-15T00:43:58.890+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:58.709+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 70 tuxeons.",
+      "timestamp": "2024-07-15T00:43:57.790+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:57.479+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 47 tuxeons.",
+      "timestamp": "2024-07-15T00:43:56.460+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:56.355+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 49 tuxeons.",
+      "timestamp": "2024-07-15T00:43:55.466+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:55.144+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 72 tuxeons.",
+      "timestamp": "2024-07-15T00:43:54.277+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:54.055+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 36 tuxeons.",
+      "timestamp": "2024-07-15T00:43:52.892+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:52.807+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "Your attempt to commit Steal failed, and you lost 43 tuxeons.",
+      "timestamp": "2024-07-15T00:43:51.796+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:51.636+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 65 tuxeons.",
+      "timestamp": "2024-07-15T00:43:50.685+02:00",
+      "author": "TuxxegoBot"
+    },
+    {
+      "content": "-commitcrime",
+      "timestamp": "2024-07-15T00:43:50.445+02:00",
+      "author": "1hungryboi"
+    },
+    {
+      "content": "You successfully committed Steal and earned 51 tuxeons.",
+      "timestamp": "2024-07-15T00:43:49.121+02:00",
+      "author": "TuxxegoBot"
+    }
   ]
 }
