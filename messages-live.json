@@ -931,6 +931,21 @@
         "content": "make a command for donations to the government",
         "timestamp": "2024-12-02T22:21:44.749+01:00",
         "author": "breadeth_cateth"
+      },
+      {
+        "content": "-funds",
+        "timestamp": "2024-12-02T22:21:53.642+01:00",
+        "author": "breadeth_cateth"
+      },
+      {
+        "content": "-paytax",
+        "timestamp": "2024-12-02T22:21:57.881+01:00",
+        "author": "breadeth_cateth"
+      },
+      {
+        "content": "-takefunds 150310359 needed to pay debt",
+        "timestamp": "2024-12-02T22:22:02.656+01:00",
+        "author": "tuxxego"
       }
     ]
   },
