@@ -2636,6 +2636,11 @@
         "content": "-invest McDonalds 100",
         "timestamp": "2024-12-03T02:02:47.503+01:00",
         "author": "geckofficial"
+      },
+      {
+        "content": "-sellstocks McDonalds 350",
+        "timestamp": "2024-12-03T02:02:53.620+01:00",
+        "author": "thebluenightyes"
       }
     ]
   },
