@@ -13016,6 +13016,11 @@
         "content": "-invest nuclearcompany 1000",
         "timestamp": "2024-12-03T17:05:02.983+01:00",
         "author": "1hungryboi"
+      },
+      {
+        "content": "-paytax",
+        "timestamp": "2024-12-03T17:05:10.520+01:00",
+        "author": "1hungryboi"
       }
     ]
   },
