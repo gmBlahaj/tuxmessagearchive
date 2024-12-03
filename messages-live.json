@@ -8511,6 +8511,21 @@
         "content": "-warn <@1150381408628514876> nsfw comment",
         "timestamp": "2024-12-03T18:46:33.649+01:00",
         "author": "tuxxego"
+      },
+      {
+        "content": "-topwarns",
+        "timestamp": "2024-12-03T18:46:35.989+01:00",
+        "author": "tuxxego"
+      },
+      {
+        "content": "now it works",
+        "timestamp": "2024-12-03T18:46:39.344+01:00",
+        "author": "tuxxego"
+      },
+      {
+        "content": "good",
+        "timestamp": "2024-12-03T18:46:40.042+01:00",
+        "author": "tuxxego"
       }
     ]
   },
@@ -13431,6 +13446,11 @@
         "content": "[No Text Content]",
         "timestamp": "2024-12-03T05:17:45.598+01:00",
         "author": "thebluenightyes"
+      },
+      {
+        "content": "[No Text Content]",
+        "timestamp": "2024-12-03T18:46:43.835+01:00",
+        "author": "therealdexter2"
       }
     ]
   },
