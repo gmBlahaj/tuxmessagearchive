@@ -6931,6 +6931,11 @@
         "content": "-bal",
         "timestamp": "2024-12-03T03:35:21.020+01:00",
         "author": "geckofficial"
+      },
+      {
+        "content": "-showbalance",
+        "timestamp": "2024-12-03T03:35:27.928+01:00",
+        "author": "geckofficial"
       }
     ]
   },
