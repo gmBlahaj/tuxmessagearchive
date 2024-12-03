@@ -6946,6 +6946,11 @@
         "content": "-sellstocks McDonalds 10",
         "timestamp": "2024-12-03T03:35:42.144+01:00",
         "author": "geckofficial"
+      },
+      {
+        "content": "-sellstocks McDonalds all",
+        "timestamp": "2024-12-03T03:35:51.004+01:00",
+        "author": "geckofficial"
       }
     ]
   },
