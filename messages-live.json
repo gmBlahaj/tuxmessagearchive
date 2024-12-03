@@ -2591,6 +2591,51 @@
         "content": "-buystocks McDonalds 350",
         "timestamp": "2024-12-03T02:02:12.538+01:00",
         "author": "geckofficial"
+      },
+      {
+        "content": "-invest McDonalds 350",
+        "timestamp": "2024-12-03T02:02:27.766+01:00",
+        "author": "geckofficial"
+      },
+      {
+        "content": "-vc",
+        "timestamp": "2024-12-03T02:02:27.768+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-sc",
+        "timestamp": "2024-12-03T02:02:30.603+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-paytax",
+        "timestamp": "2024-12-03T02:02:33.743+01:00",
+        "author": "geckofficial"
+      },
+      {
+        "content": "-invest McDonalds 350",
+        "timestamp": "2024-12-03T02:02:37.525+01:00",
+        "author": "geckofficial"
+      },
+      {
+        "content": "-invest McDonalds 200",
+        "timestamp": "2024-12-03T02:02:41.156+01:00",
+        "author": "geckofficial"
+      },
+      {
+        "content": "-sell McDonalds 350",
+        "timestamp": "2024-12-03T02:02:43.301+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-invest McDonalds 1000",
+        "timestamp": "2024-12-03T02:02:44.486+01:00",
+        "author": "geckofficial"
+      },
+      {
+        "content": "-invest McDonalds 100",
+        "timestamp": "2024-12-03T02:02:47.503+01:00",
+        "author": "geckofficial"
       }
     ]
   },
