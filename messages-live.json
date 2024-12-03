@@ -6206,6 +6206,26 @@
         "content": "-sc",
         "timestamp": "2024-12-03T04:43:08.905+01:00",
         "author": "1hungryboi"
+      },
+      {
+        "content": "-bal",
+        "timestamp": "2024-12-03T04:43:20.088+01:00",
+        "author": "breadeth_cateth"
+      },
+      {
+        "content": "-paytax",
+        "timestamp": "2024-12-03T04:43:22.580+01:00",
+        "author": "1hungryboi"
+      },
+      {
+        "content": "-pay <@1219904685587169315> 10000000000",
+        "timestamp": "2024-12-03T04:43:26.621+01:00",
+        "author": "breadeth_cateth"
+      },
+      {
+        "content": "-bal",
+        "timestamp": "2024-12-03T04:43:31.917+01:00",
+        "author": "1hungryboi"
       }
     ]
   },
