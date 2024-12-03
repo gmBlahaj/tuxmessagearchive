@@ -5931,6 +5931,16 @@
         "content": "-funds",
         "timestamp": "2024-12-03T04:34:47.093+01:00",
         "author": "1hungryboi"
+      },
+      {
+        "content": "-showbalance",
+        "timestamp": "2024-12-03T04:36:40.400+01:00",
+        "author": "geckofficial"
+      },
+      {
+        "content": "-sc",
+        "timestamp": "2024-12-03T04:36:45.639+01:00",
+        "author": "geckofficial"
       }
     ]
   },
