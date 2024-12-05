@@ -21636,6 +21636,26 @@
         "content": "-invest 10 1000",
         "timestamp": "2024-12-05T02:53:00.182+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:53:02.347+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:53:04.339+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000\n-sellstocks 10 1000-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:53:06.332+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest -sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:53:08.405+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
