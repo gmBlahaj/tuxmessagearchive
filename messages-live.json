@@ -19971,6 +19971,16 @@
         "content": "-invest bob5 1000",
         "timestamp": "2024-12-05T02:42:06.180+01:00",
         "author": "thebluenightyes"
+      },
+      {
+        "content": "-invest bob6 1000",
+        "timestamp": "2024-12-05T02:42:13.482+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-lb",
+        "timestamp": "2024-12-05T02:42:14.894+01:00",
+        "author": "thebluenightyes"
       }
     ]
   },
