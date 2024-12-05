@@ -21491,6 +21491,16 @@
         "content": "-sellstocks 10 1000",
         "timestamp": "2024-12-05T02:52:30.784+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:52:31.812+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:52:32.122+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
