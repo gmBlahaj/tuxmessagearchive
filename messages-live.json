@@ -20646,6 +20646,26 @@
         "content": "-addfallbackmoney bob 7157654",
         "timestamp": "2024-12-05T02:46:42.400+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-addfallbackmoney bob all",
+        "timestamp": "2024-12-05T02:46:48.254+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-bal",
+        "timestamp": "2024-12-05T02:46:48.272+01:00",
+        "author": "1hungryboi"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:46:48.938+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-addfallbackmoney bob all",
+        "timestamp": "2024-12-05T02:46:49.194+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
