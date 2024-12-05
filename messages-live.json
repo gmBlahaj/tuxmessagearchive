@@ -23161,6 +23161,101 @@
         "content": "-invest 10 1000",
         "timestamp": "2024-12-05T03:04:45.946+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:04:46.901+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:04:49.743+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:04:50.398+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:04:53.289+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:04:54.159+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:04:56.927+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:04:57.831+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:05:00.593+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:05:01.519+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:05:04.325+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:05:05.575+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:05:07.989+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:05:08.918+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:05:11.588+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:05:12.435+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sc",
+        "timestamp": "2024-12-05T03:05:16.761+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-vc 10",
+        "timestamp": "2024-12-05T03:05:19.843+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-paytax",
+        "timestamp": "2024-12-05T03:05:23.925+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:05:28.228+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
