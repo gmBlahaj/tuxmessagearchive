@@ -19911,6 +19911,41 @@
         "content": "-invest 5 1000",
         "timestamp": "2024-12-05T02:41:24.569+01:00",
         "author": "thebluenightyes"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:41:34.850+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob 1000",
+        "timestamp": "2024-12-05T02:41:36.055+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:41:40.099+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob1 1000",
+        "timestamp": "2024-12-05T02:41:41.363+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-invest bob2 1000",
+        "timestamp": "2024-12-05T02:41:46.271+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-paytaxc",
+        "timestamp": "2024-12-05T02:41:47.154+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-paytax",
+        "timestamp": "2024-12-05T02:41:49.473+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
