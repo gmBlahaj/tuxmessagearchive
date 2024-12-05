@@ -21296,6 +21296,26 @@
         "content": "-paytax",
         "timestamp": "2024-12-05T02:50:36.537+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:50:44.902+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:50:48.511+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-viewcorporation 10",
+        "timestamp": "2024-12-05T02:50:52.662+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "bruh",
+        "timestamp": "2024-12-05T02:50:57.845+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
