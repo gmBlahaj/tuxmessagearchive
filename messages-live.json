@@ -13491,6 +13491,11 @@
         "content": "-paytax",
         "timestamp": "2024-12-05T03:00:45.012+01:00",
         "author": "ston3ix"
+      },
+      {
+        "content": "-collect",
+        "timestamp": "2024-12-05T03:01:00.203+01:00",
+        "author": "ston3ix"
       }
     ]
   },
@@ -22515,6 +22520,131 @@
       {
         "content": "-invest 10 1000",
         "timestamp": "2024-12-05T03:00:53.867+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:00:54.628+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:00:57.424+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:00:58.237+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:01.072+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:01.910+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:04.800+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:05.635+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:08.407+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:09.320+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:12.098+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:12.993+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:15.933+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:16.630+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:19.461+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:20.410+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:23.260+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:24.096+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:26.829+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:27.769+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:30.528+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:31.438+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:34.343+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:35.098+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T03:01:37.999+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T03:01:38.839+01:00",
         "author": "d1v1n17y"
       }
     ]
