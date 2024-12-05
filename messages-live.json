@@ -19946,6 +19946,31 @@
         "content": "-paytax",
         "timestamp": "2024-12-05T02:41:49.473+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob3 1000",
+        "timestamp": "2024-12-05T02:41:55.283+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:41:59.872+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob4 1000",
+        "timestamp": "2024-12-05T02:42:01.105+01:00",
+        "author": "thebluenightyes"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:42:05.214+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob5 1000",
+        "timestamp": "2024-12-05T02:42:06.180+01:00",
+        "author": "thebluenightyes"
       }
     ]
   },
