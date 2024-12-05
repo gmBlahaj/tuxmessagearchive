@@ -19471,6 +19471,16 @@
         "content": "-invest bob 3000",
         "timestamp": "2024-12-05T02:33:51.198+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-paytax",
+        "timestamp": "2024-12-05T02:33:56.974+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob 3000",
+        "timestamp": "2024-12-05T02:34:01.735+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
