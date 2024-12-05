@@ -20666,6 +20666,111 @@
         "content": "-addfallbackmoney bob all",
         "timestamp": "2024-12-05T02:46:49.194+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:46:55.807+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:46:59.478+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:02.620+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:47:03.433+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:03.864+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:47:04.257+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:04.605+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:47:05.192+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-pay <@670646662808469536> 46000000",
+        "timestamp": "2024-12-05T02:47:05.498+01:00",
+        "author": "1hungryboi"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:06.927+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:47:08.396+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:09.056+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:47:09.381+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-bal",
+        "timestamp": "2024-12-05T02:47:09.556+01:00",
+        "author": "1hungryboi"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:09.902+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:47:10.210+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:10.547+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000-sellstocks 10 10001000",
+        "timestamp": "2024-12-05T02:47:10.886+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:11.303+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest 10 1000",
+        "timestamp": "2024-12-05T02:47:11.673+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-sellstocks 10 1000-sellstocks 10 1000",
+        "timestamp": "2024-12-05T02:47:12.022+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
