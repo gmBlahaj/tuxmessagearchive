@@ -19571,6 +19571,16 @@
         "content": "0invest bob6 1000",
         "timestamp": "2024-12-05T02:35:35.041+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob6 1000",
+        "timestamp": "2024-12-05T02:35:41.911+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-allcorporations",
+        "timestamp": "2024-12-05T02:35:42.911+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
