@@ -19521,6 +19521,21 @@
         "content": "-allcorporations",
         "timestamp": "2024-12-05T02:34:23.983+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob2 -invest bob 3000",
+        "timestamp": "2024-12-05T02:34:34.604+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-invest bob2 1000",
+        "timestamp": "2024-12-05T02:34:38.471+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-allcorporations",
+        "timestamp": "2024-12-05T02:34:42.140+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
