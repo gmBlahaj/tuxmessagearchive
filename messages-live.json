@@ -30256,6 +30256,16 @@
         "content": "-removefallbackmoney bob 25555555",
         "timestamp": "2024-12-06T04:57:22.462+01:00",
         "author": "d1v1n17y"
+      },
+      {
+        "content": "-aafallbackmoney bob 25555555",
+        "timestamp": "2024-12-06T04:57:33.655+01:00",
+        "author": "d1v1n17y"
+      },
+      {
+        "content": "-addfallbackmoney bob 25555555",
+        "timestamp": "2024-12-06T04:57:38.818+01:00",
+        "author": "d1v1n17y"
       }
     ]
   },
